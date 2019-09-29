@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1565882628",
-      "filename": "Viper-ugglite-20190929-v6.7-Official.zip",
-      "id": "12c082b6d32ace6742b75d665c32abde",
+      "datetime":"1569747818",
+      "filename":"Viper-ugglite-20190929-v6.7-Official.zip",
+      "size":657881328,
+      "id":"59540af6d1489b22ef6e2eea73c169ca",
       "romtype": "OFFICIAL",
-      "size": 774281596,
-      "url": "https://master.dl.sourceforge.net/project/viper-project/Viper-ugglite-20190929-v6.7-Official.zip",
+      "url": "https://drive.google.com/uc?export=download&confirm=8DZQ&id=1e-4QoRXUCrMEC-9NN5FRlTArsQGBnhz_",
       "version": "v6.7"
     }
   ]
