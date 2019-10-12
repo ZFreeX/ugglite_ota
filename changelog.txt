@@ -1,0 +1,6 @@
+=============
+OTA Changelog v6.7
+
+- Source updated
+- Added hotplug to kernel
+- Added Simple I/O to kernel
